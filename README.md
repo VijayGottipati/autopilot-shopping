@@ -87,10 +87,6 @@ Before running the system, update the following placeholder values:
 | `manus_final_system.py` | `YOUR_MANUS_API_KEY_HERE` | [Manus](https://manus.im/app) |
 | `google_docs_shopping_final.py` | `YOUR_GOOGLE_DOCS_URL_HERE` | Google Docs URL |
 
-### Additional Configuration (Manus + Notion)
-- `your_notion_database_id` - Your Notion database ID
-- `your_notion_integration_token` - Your Notion integration token
-
 ## 🔒 Security
 
 ⚠️ **Important Security Notes:**
