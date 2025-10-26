@@ -166,21 +166,18 @@ async def add_to_cart(items: list[str] = None):
 
     Steps:
     1. Go to https://www.instacart.com/
-    2. Login with credentials:
-       - Username: vg2571@nyu.edu
-       - Password: Vijaygf0266
-    3. After successful login, search for each item and add to cart:
+    2. search for each item and add to cart:
        - Search for the item
        - Find the best match (closest name, lowest price)
        - Click on the product to view details
        - Click the "Add to cart" button
        - Clear search box/field
        - Continue to next item
-    4. After adding all items, proceed to checkout:
+    3. After adding all items, proceed to checkout:
        - Click on the cart icon
        - Review items in cart
        - Click "Checkout" or "Proceed to checkout"
-    5. Go through checkout process:
+    4. Go through checkout process:
        - Select delivery/pickup option
        - Proceed to payment section
        - Click "Add payment method" or "Add card"
