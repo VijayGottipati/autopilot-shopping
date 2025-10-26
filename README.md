@@ -46,7 +46,7 @@ This system demonstrates advanced AI integration by combining multiple cutting-e
 ### Installation
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/VijayGottipati/autopilot-shopping.git
 cd shop
 
 # Install dependencies
